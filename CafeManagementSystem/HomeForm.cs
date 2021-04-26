@@ -66,6 +66,8 @@ namespace CafeManagementSystem
         {
             placeOrderControl1.Visible = true;
             placeOrderControl1.BringToFront();
+            placeOrderControl1.setUsername(username);
+            placeOrderControl1.loadCategory();
         }
 
         private void updateItemBtn_Click(object sender, EventArgs e)
@@ -81,6 +83,14 @@ namespace CafeManagementSystem
             itemDeleteControl1.Visible = true;
             itemDeleteControl1.BringToFront();
             itemDeleteControl1.loadItem();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+            placeOrderControl1.Visible = true;
+            placeOrderControl1.BringToFront();
+            placeOrderControl1.setUsername(username);
+            placeOrderControl1.loadCategory();
         }
     }
 }

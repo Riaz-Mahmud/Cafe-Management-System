@@ -35,10 +35,10 @@
             this.addItemBtn = new System.Windows.Forms.Button();
             this.placeOrderBtn = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.placeOrderControl1 = new CafeManagementSystem.placeOrderControl();
             this.itemDeleteControl1 = new CafeManagementSystem.itemDeleteControl();
             this.itemUpdateControl1 = new CafeManagementSystem.itemUpdateControl();
             this.addItemControl1 = new CafeManagementSystem.addItemControl();
-            this.placeOrderControl1 = new CafeManagementSystem.placeOrderControl();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -146,6 +146,15 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1097, 656);
             this.panel2.TabIndex = 1;
+            this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
+            // 
+            // placeOrderControl1
+            // 
+            this.placeOrderControl1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.placeOrderControl1.Location = new System.Drawing.Point(0, 0);
+            this.placeOrderControl1.Name = "placeOrderControl1";
+            this.placeOrderControl1.Size = new System.Drawing.Size(1097, 656);
+            this.placeOrderControl1.TabIndex = 4;
             // 
             // itemDeleteControl1
             // 
@@ -170,14 +179,6 @@
             this.addItemControl1.Name = "addItemControl1";
             this.addItemControl1.Size = new System.Drawing.Size(1097, 656);
             this.addItemControl1.TabIndex = 1;
-            // 
-            // placeOrderControl1
-            // 
-            this.placeOrderControl1.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.placeOrderControl1.Location = new System.Drawing.Point(0, 0);
-            this.placeOrderControl1.Name = "placeOrderControl1";
-            this.placeOrderControl1.Size = new System.Drawing.Size(1097, 656);
-            this.placeOrderControl1.TabIndex = 4;
             // 
             // HomeForm
             // 
