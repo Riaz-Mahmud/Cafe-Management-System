@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.LoginForm.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.SignupForm.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.HomeForm.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.placeOrderControl.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.addItemControl.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.itemUpdateControl.resources
+C:\Users\ASUS\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.itemDeleteControl.resources
